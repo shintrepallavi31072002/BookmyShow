@@ -2,26 +2,26 @@ import React from "react";
 // import "./CSS/card.css";
 export default function Navbar() {
   return (
-    <div>
+    <div style={{width:"100%"}}>
       <nav className="navbar navbar-dark bg-dark fixed-top" >
         <div className="container-fluid">
           {/* <h6 > Show App</h6> */}
       
-          <a className="navbar-brand" href="/">ShowApp</a>
+          <a className="navbar-brand" href="/" style={{paddingLeft:"140px"}}>ShowApp</a>
             
-            <div>
+            <div style={{marginRight:"130px"}}>
             <ul className="nav justify-content-end">
             <li className="nav-item mx-2">
-              <button type="button" class="btn btn-danger">Sign-in</button>
+              <button type="button" class="btn btn-danger"  >Sign-in</button>
             </li>
           <button
             className="navbar-toggler mx-2"
             type="button"
             data-bs-toggle="offcanvas"
             data-bs-target="#offcanvasDarkNavbar"
-            aria-controls="offcanvasDarkNavbar"
+            aria-controls="offcanvasDarkNavbar" 
           >
-            <span className="navbar-toggler-icon"></span>
+            <span  className="navbar-toggler-icon"></span>
           </button>
           </ul>
           </div>
@@ -29,7 +29,7 @@ export default function Navbar() {
           
           <div
             className="offcanvas offcanvas-end text-bg-dark"
-            tabindex="-1"
+            tabIndex="-1"
             id="offcanvasDarkNavbar"
             aria-labelledby="offcanvasDarkNavbarLabel">
             <div className="offcanvas-header">

@@ -5,8 +5,8 @@ function Crewcard(props) {
   return (
     <div>
       <Card
-        hoverable
-        style={{ width: 150, height: "150px" }}
+        
+        style={{ width: 140 ,height: "0px" ,border:"none"}}
         cover={
           <img
             alt="example"

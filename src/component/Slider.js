@@ -6,10 +6,10 @@ const contentStyle = {
  
   height: "100%",
   width: "100%",
-  color: "#fff",
+  color: "white",
   lineHeight: "150px",
   textAlign: "center",
-  background: "#364d79",
+ 
   paddingtop:"90px",
   
  

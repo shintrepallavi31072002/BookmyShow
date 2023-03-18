@@ -6,7 +6,7 @@ function Castcard(props) {
     <div>
       <Card
         
-        style={{ width: 100, height: "0px" ,border:"none"}}
+        style={{ width: 150, height: "0px" ,border:"none"}}
         cover={
           <img
             alt="example"
