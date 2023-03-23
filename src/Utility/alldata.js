@@ -124,3 +124,33 @@ export const likecard = [
     },
     
 ]
+
+
+
+export const lastcard = [
+    {
+        addimg:"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VGh1LCAzMCBNYXI%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00353249-thgprjjkbe-portrait.jpg",
+        movname:"Ms in Us",
+        sub:"Watch on zoom"
+    },
+    {
+        addimg:"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAyNiBNYXI%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00354816-dzdntvpxaa-portrait.jpg",
+        movname:"Blind Dating",
+        sub:"Watch on zoom"
+    },
+    {
+        addimg:"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAyNiBNYXI%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00318203-tcxxsuuznd-portrait.jpg",
+        movname:"Masterclass On Consistent Compounding",
+        sub:"Watch on zoom"
+    },
+    {
+        addimg:"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-TW9uLCAzIEFwciBvbndhcmRz,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00353440-bvpesakqaj-portrait.jpg",
+        movname:"India in Fashion",
+        sub:"Watch on zoom"
+    },
+    {
+        addimg:"https://assets-in.bmscdn.com/iedb/movies/images/website/poster/large/fast-x-et00122562-1676446752.jpg",
+        movname:"Fast-X",
+        sub:"Watch on zoom"
+    },
+]
